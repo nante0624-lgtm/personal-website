@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: rgba(204, 204, 204, 0.904);
+    font-family: "times";
+    font-size: 200px;
+}
+
+h2{
+    color: rgb(202, 202, 202);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 80px;
+    text-underline-position: below ;
+} 
+p{ 
+    color: rgb(172, 172, 172);
+    size: 40px;
+}
+#popo{
+    border: 3px solid;
+    height: 900px;
+    width: 900px;
+    background-image:url("https://play-lh.googleusercontent.com/saAWUYZJEVe-XaQg54HRAN_6T_y4GAEi32qP9C03VzF8jzS6JQEMIq83YJOXoyTWzw");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+
+    left: 200%;
+
+}
